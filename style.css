@@ -1,0 +1,26 @@
+.content {
+	margin: 0;
+	padding: 0;
+	border: 1px solid red;
+	width: 720px;
+}
+
+.header {
+	border: 1px solid red;
+	width: 360px;
+}
+
+.menu {
+	display: flex;
+	align-items: center;
+	border: 1px solid red;
+	width: 720px;
+	text-decoration: none;
+
+}
+
+.menu__link {
+	text-decoration: none;
+	border: 1px solid red;
+
+}
